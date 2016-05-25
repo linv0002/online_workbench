@@ -1,3 +1,7 @@
 This is a new file.
 
 I will check out diff from here.
+
+I am adding some new changes here.
+
+Maybe I want to change something else.
